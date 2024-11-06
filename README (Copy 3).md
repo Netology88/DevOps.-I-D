@@ -16,7 +16,7 @@ sys-37
 Скриншот вывода команд sho standby, на которых видно что для интерфейсов g0/0 g0/1 настроен hsrp preempt, позволяет сделать роутер активным сразу как приоритет становится большим по отношению к партнеру.
 
 
-Screenshot --- 1- 
+Screenshot --- 1- https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202024-11-06%2013-21-02.png
 
 
 
@@ -34,8 +34,8 @@ Tracking script
 keepalived запускает скрипт с определенным интервалом, если скрипт возвращает статус 0, то ничего не происходит, если 1, то keepalived переходит в статус fault.
 
 
-screenshot 1
+screenshot 1--- https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202024-11-06%2013-32-19.png
 
-screenshot 2 
+screenshot 2---  https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202024-11-06%2013-34-05.png
 
-screenshot 3         
+screenshot 3---  https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202024-11-06%2013-36-01.png      
