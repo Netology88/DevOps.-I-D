@@ -8,7 +8,7 @@
 
 Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.
 
-1. ![Screenshot 3](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-42-26.png)
+1. ![Screenshot 3](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-13%2010-20-02.png)
 
 ---
 
@@ -17,14 +17,14 @@
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00.
 
 
-1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-44-59.png)
+1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-13%2010-22-41.png)
 
 
 
 ### Задание 3
 Получите последние пять аренд фильмов.
 
-1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-44-59.png)
+1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-13%2010-23-46.png)
 
 
 
@@ -37,6 +37,6 @@
     все буквы в фамилии и имени из верхнего регистра переведите в нижний регистр,
     замените буквы 'll' в именах на 'pp'.
 
-1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-44-59.png)
+1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-13%2010-26-55.png)
 
 ---
