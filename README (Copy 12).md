@@ -6,7 +6,7 @@
 ### Задание 1
 
 
-1. ![Screenshot 1](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-42-12.png)
+1. ![Screenshot 1](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-13%2011-05-25.png)
 
 
 ---
@@ -14,7 +14,7 @@
 ### Задание 2
 
 
-1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-44-59.png)
+1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-13%2011-06-30.png)
 
 ---
 
@@ -22,6 +22,6 @@
 
 ### Задание 3
 
-1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-44-59.png)
+1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-13%2011-07-04.png)
 
 ---
