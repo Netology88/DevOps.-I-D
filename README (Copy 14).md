@@ -87,3 +87,23 @@ JOIN
     film f ON i.film_id = f.film_id
 ```
 ---
+5. Оптимизация запроса:
+
+```
+EXPLAIN ANALYZE 
+SELECT 
+    CONCAT(c.last_name, ' ', c.first_name) AS full_name, 
+    SUM(p.amount) OVER (PARTITION BY c.customer_id, f.title) AS total_amount
+FROM 
+    payment p
+INNER JOIN 
+    rental r ON p.payment_date = r.rental_date
+INNER JOIN 
+    customer c ON r.customer_id = c.customer_id
+INNER JOIN 
+    inventory i ON r.inventory_id = i.inventory_id
+INNER JOIN 
+    film f ON i.film_id = f.film_id
+WHERE 
+    p.payment_date >= '2005-07-30' AND p.payment_date < '2005-07-31';
+```
