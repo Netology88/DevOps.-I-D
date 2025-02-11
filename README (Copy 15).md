@@ -21,14 +21,12 @@
     Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
 
-1. ![Screenshot 1](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-42-12.png)
+1. ![Screenshot 1](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-02-10%2010-53-04.png)
 
 
-
-2. ![Screenshot 2](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-42-20.png)
-
-
-3. ![Screenshot 3](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-42-26.png)
+ 1. https://www.exploit-db.com/exploits/21895
+ 2. https://www.exploit-db.com/exploits/38846
+ 3. https://www.exploit-db.com/exploits/25775
 
 ---
 
@@ -43,3 +41,12 @@
     Чем отличаются эти режимы сканирования с точки зрения сетевого трафика?
     Как отвечает сервер?
 
+
+1. ![Screenshot 2](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-02-11%2012-10-20.png)
+
+
+2. ![Screenshot 3](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-02-11%2012-10-35.png)
+
+3. ![Screenshot 3](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-02-11%2012-10-49.png)
+
+4. ![Screenshot 3](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-02-11%2012-11-03.png)
