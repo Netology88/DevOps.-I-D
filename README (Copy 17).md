@@ -5,7 +5,7 @@
 
 ### Задание 1
 
-1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-01-09%2012-44-59.png)
+1. ![Screenshot 4](https://github.com/Netology88/DevOps.-I-D/blob/main/screenshots/Screenshot%20from%202025-03-04%2009-56-26.png)
 
 ### Задание 2
  да
